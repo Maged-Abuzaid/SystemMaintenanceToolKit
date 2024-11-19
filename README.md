@@ -19,7 +19,7 @@ A GUI-based toolkit for performing essential system maintenance tasks on Windows
 
 1. **Download the Executable**:
 
-   - Obtain the `SystemMaintenanceToolkit.exe` file from the provided source or [Releases](#) page.
+   - Obtain the `SystemMaintenanceToolkit.exe` file from the [Releases](#) page.
 
 2. **Place the Executable**:
 
