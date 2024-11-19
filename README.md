@@ -146,9 +146,3 @@ The software is provided "as is," without warranty of any kind, express or impli
 
 **Note**: By using this software, you agree to the terms outlined in the **License and Usage Terms** section.
 
-Additional Notes
-Custom License: The license section above is a custom proprietary license tailored to your requirements. It restricts copying, redistribution, and holds you harmless from liability.
-Legal Considerations: While this license aims to cover your needs, it's advisable to consult with a legal professional to ensure it fully protects your interests and complies with applicable laws.
-Important Considerations
-Sharing on GitHub: Be aware that hosting code on a public GitHub repository without a license doesn't prevent others from viewing or forking the repository, as per GitHub's Terms of Service. If you wish to keep the code private, consider using a private repository.
-Liability: Including a disclaimer of liability is important, but its enforceability can vary by jurisdiction. Legal advice is recommended.
