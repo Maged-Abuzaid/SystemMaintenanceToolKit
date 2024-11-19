@@ -119,12 +119,36 @@ Your feedback is valuable to us. Please consider providing feedback or suggestio
 - **Disk Cleanup Paths**: Some files may not be deleted due to permission issues or if they are in use by other programs.
 - **Defragmentation Limitations**: Defragmentation may not be effective on SSDs and is generally not recommended for them.
 
-## License
+## License and Usage Terms
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This software is proprietary and all rights are reserved by the developer.
+
+### **Usage Permissions**
+
+- **Personal Use**: You are permitted to use and modify the software for personal, non-commercial purposes.
+- **No Redistribution**: You may not redistribute, share, or sublicense the software or any modified versions of it.
+- **No Commercial Use**: Commercial use of this software is prohibited without explicit permission from the developer.
+
+### **Attribution**
+
+- **No Claim of Ownership**: You may not claim ownership or authorship of the original software.
+- **No Removal of Notices**: You may not remove or alter any proprietary notices or labels on the software.
+
+### **Disclaimer of Liability**
+
+The software is provided "as is," without warranty of any kind, express or implied. In no event shall the developer be liable for any claim, damages, or other liability arising from the use of the software.
 
 ---
 
 **Disclaimer**: This tool performs system-level operations and should be used with caution. Always ensure you have backups of important data before running system maintenance tasks.
 
-```
+---
+
+**Note**: By using this software, you agree to the terms outlined in the **License and Usage Terms** section.
+
+Additional Notes
+Custom License: The license section above is a custom proprietary license tailored to your requirements. It restricts copying, redistribution, and holds you harmless from liability.
+Legal Considerations: While this license aims to cover your needs, it's advisable to consult with a legal professional to ensure it fully protects your interests and complies with applicable laws.
+Important Considerations
+Sharing on GitHub: Be aware that hosting code on a public GitHub repository without a license doesn't prevent others from viewing or forking the repository, as per GitHub's Terms of Service. If you wish to keep the code private, consider using a private repository.
+Liability: Including a disclaimer of liability is important, but its enforceability can vary by jurisdiction. Legal advice is recommended.
